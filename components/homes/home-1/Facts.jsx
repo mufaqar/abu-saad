@@ -5,12 +5,12 @@ import Counter from "@/components/common/Counter";
 export default function Facts() {
   return (
     <div className="row-counter">
-      <Image
+      {/* <Image
         alt="Image"
         width={838}
         height={463}
         src="/assets/img/shortcode/counter/bg-counter.png"
-      />
+      /> */}
       <div className="container">
         <div className="row clearfix">
           <div className="col-md-12">

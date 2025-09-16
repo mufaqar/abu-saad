@@ -4,8 +4,8 @@ import Experience2 from "@/components/about/Experience2";
 import Pricing from "@/components/about/Pricing";
 import Process from "@/components/common/Process";
 import PageTitle from "@/components/common/PageTitle";
-import Copyright2 from "@/components/footers/Copyright2";
-import Footer2 from "@/components/footers/Footer2";
+import Copyright from "@/components/footers/Copyright";
+import Footer1 from "@/components/footers/Footer1";
 import Header1 from "@/components/headers/Header1";
 import React from "react";
 export const metadata = {
@@ -29,12 +29,12 @@ export default function page() {
                 data-mobile={170}
                 data-smobile={320}
               />
-              <Pricing />
-              <Experience2 />
-              <Process />
+              {/* <Pricing /> */}
+              {/* <Experience2 /> */}
+              {/* <Process /> */}
             </div>
-            <Footer2 />
-            <Copyright2 />
+            <Footer1 />
+            <Copyright />
           </div>
         </div>
       </div>

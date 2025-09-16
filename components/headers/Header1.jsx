@@ -14,7 +14,7 @@ export default function Header1() {
             <div className="top-bar-content">
               <div className="inner">
                 <span className="location content">
-                  2072 Pinnickinick Street, WA 98370
+                  7517 wadi Al Janah, An Nasim Ash Sharqi, RQNF7517, An Nasim Ash Sharqi, Riyadh, 3563, Riyadh 14242, Saudi Arabia
                 </span>
                 <span className="envelope content">info@website.com</span>
               </div>

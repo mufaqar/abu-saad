@@ -55,24 +55,7 @@ export default function Experience() {
             </div>
           </div>
         </div>
-        <div className="row row-experiences-bottom wow fadeInUp">
-          <div className="col-md-6">
-            <h1 className="heading-experiences">
-              SIGN UP FOR NEWSLATER &amp; GET LATTEST NEWS &amp; UPDATE
-            </h1>
-          </div>
-          <div className="col-md-6">
-            <div className="form">
-              <input className="text" type="text" placeholder="Email Address" />
-              <input
-                className="submit"
-                type="submit"
-                readOnly
-                value="SUBSCRIBE"
-              />
-            </div>
-          </div>
-        </div>
+
       </div>
     </div>
   );

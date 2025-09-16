@@ -93,21 +93,21 @@ export const articles2 = [
 export const blogPosts = [
   {
     id: 1,
-    imageSrc: "/assets/img/post/recent-new-1.jpg",
+    // imageSrc: "/assets/img/Furniture Repair.jpg",
     title: "Integer at faucibus urna. Nullam condimentum",
     date: "15 October",
     hasIcon: false,
   },
   {
     id: 2,
-    imageSrc: "/assets/img/post/recent-new-2.jpg",
+    // imageSrc: "/assets/img/post/recent-new-2.jpg",
     title: "Nunc scelerisque tincidunt estibulum",
     date: "21 July",
     hasIcon: true,
   },
   {
     id: 3,
-    imageSrc: "/assets/img/post/recent-new-3.jpg",
+    // imageSrc: "/assets/img/post/recent-new-3.jpg",
     title: "Cras eu elit congue, plac erat duicidunt nisl",
     date: "21 December",
     hasIcon: false,
@@ -117,41 +117,41 @@ export const blogPosts = [
 export const blogPosts2 = [
   {
     id: 1,
-    imageSrc: "/assets/img/post/post-1.jpg",
-    title: "LOREM IPSUM DOLOR SIT AMET, CONSETETUR SADIPSCING",
+    imageSrc: "/assets/img/Custom Furniture.jpg",
+    title: " The Beauty of Custom Woodwork",
     date: "28 JANUARY, 2020",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum",
+      "At Abu Saad Wood Works, we believe that wood is more than just a material — it’s a story of nature, craftsmanship, and timeless beauty. Our skilled artisans transform raw wood into elegant furniture and interior designs that bring warmth and character to every space. From traditional to modern styles, we create pieces that reflect your personality and lifestyle.",
     hasEffectIcon: false,
     marginTop: false,
   },
   {
     id: 2,
-    imageSrc: "/assets/img/post/post-2.jpg",
-    title: "LOREM IPSUM DOLOR SIT AMET, CONSETETUR SADIPSCING",
+    imageSrc: "/assets/img/Craftsmanship.jpg",
+    title: "Craftsmanship That Lasts a Lifetime",
     date: "28 JANUARY, 2020",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum",
+      "Good design is important, but great craftsmanship is unforgettable. That’s why Abu Saad Wood Works focuses on durability, precision, and detail in every project. Whether it’s custom cabinets, doors, or complete interiors, our work is built to last for generations. Investing in fine woodwork means investing in beauty and strength that stands the test of time.",
     hasEffectIcon: true,
     marginTop: false,
   },
   {
     id: 3,
-    imageSrc: "/assets/img/post/post-3.jpg",
-    title: "LOREM IPSUM DOLOR SIT AMET, CONSETETUR SADIPSCING",
+    imageSrc: "/assets/img/Transforming.jpg",
+    title: "Transforming Spaces with Wood",
     date: "28 JANUARY, 2020",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum",
+      "Wood has the power to completely transform a space — adding warmth, elegance, and natural charm. At Abu Saad Wood Works, we help homeowners and businesses design interiors that feel inviting and unique. From stylish furniture to complete interior solutions, our goal is to make every space more functional and beautiful through the art of wood.",
     hasEffectIcon: true,
     marginTop: true,
   },
   {
     id: 4,
     imageSrc: "/assets/img/post/post-4.jpg",
-    title: "LOREM IPSUM DOLOR SIT AMET, CONSETETUR SADIPSCING",
+    title: "Woodwork Inspired by Nature",
     date: "28 JANUARY, 2020",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum",
+      "Every piece of wood tells a story — its texture, grains, and patterns are unique gifts from nature. At Abu Saad Wood Works, we honor this natural beauty by crafting furniture and interiors that highlight the character of wood while blending it with modern design. The result is timeless elegance that connects you with nature every day.",
     hasEffectIcon: true,
     marginTop: true,
   },

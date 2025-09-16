@@ -2,25 +2,8 @@ import React from "react";
 import Image from "next/image";
 export default function Contact() {
   return (
-    <div className="row-request">
-      <div className="col-md-6">
-        <Image
-          className="img-left"
-          alt="Image"
-          width={845}
-          height={660}
-          src="/assets/img/shortcode/request/request-left.jpg"
-        />
-      </div>
-      <div className="col-md-6">
-        <Image
-          className="img-right"
-          alt="Image"
-          width={967}
-          height={534}
-          src="/assets/img/shortcode/request/request-right.png"
-        />
-      </div>
+    <div className="row-request ">
+    
       <div className="container-fluid">
         <div className="row-request-inner">
           <div className="container">

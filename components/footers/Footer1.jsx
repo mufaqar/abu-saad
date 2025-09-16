@@ -44,20 +44,20 @@ export default function Footer1() {
   };
   return (
     <footer id="footer" className="style-2 clearfix">
-      <Image
+      {/* <Image
         className="bg-left"
         alt="Image"
         width={581}
         height={407}
         src="/assets/img/bg-footer-1.png"
-      />
-      <Image
+      /> */}
+      {/* <Image
         className="bg-right"
         alt="Image"
         width={783}
         height={432}
         src="/assets/img/bg-footer-2.png"
-      />
+      /> */}
       <div id="footer-widgets" className="container">
         <div className="footer-information">
           <div className="row">
@@ -69,8 +69,8 @@ export default function Footer1() {
                     <div>
                       <span>Our Address</span>
                     </div>
-                    <a href="#" title="">
-                      Drive Chicago, IL 60607
+                    <a href="/" title="">
+                      7517 wadi Al Janah, An Nasim Ash Sharqi, RQNF7517, An Nasim Ash Sharqi, Riyadh, 3563, Riyadh 14242, Saudi Arabia
                     </a>
                   </div>
                 </div>
@@ -85,7 +85,7 @@ export default function Footer1() {
                       <span>Call Us</span>
                     </div>
                     <a href="#" title="">
-                      360-779-2228
+                      +966558671274
                     </a>
                   </div>
                 </div>
@@ -121,11 +121,11 @@ export default function Footer1() {
                     src="/assets/img/logo.png"
                   />
                   <p className="margin-bottom-15">
-                    Lorem ipsum dolor sit amet,
+                    rusted woodwork experts blending
                     <br />
-                    consect etuer adipiscing elit, sed
+                     traditional craftsmanship with
                     <br />
-                    diam nonu mmy nibh euis
+                    modern design for homes and offices
                   </p>
                   <div className="footer-socials">
                     <div className="inner">

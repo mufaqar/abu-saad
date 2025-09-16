@@ -1,7 +1,7 @@
 import PageTitle from "@/components/common/PageTitle";
 
-import Copyright2 from "@/components/footers/Copyright2";
-import Footer2 from "@/components/footers/Footer2";
+import Copyright from "@/components/footers/Copyright";
+import Footer1 from "@/components/footers/Footer1";
 import Header1 from "@/components/headers/Header1";
 
 import ServiceDetails from "@/components/service/ServiceDetails";
@@ -23,8 +23,8 @@ export default function page() {
             <div id="main-content-2" className="site-main clearfix">
               <ServiceDetails />
             </div>
-            <Footer2 />
-            <Copyright2 />
+            <Footer1 />
+            <Copyright />
           </div>
         </div>
       </div>
