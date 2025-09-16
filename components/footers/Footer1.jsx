@@ -44,20 +44,6 @@ export default function Footer1() {
   };
   return (
     <footer id="footer" className="style-2 clearfix">
-      {/* <Image
-        className="bg-left"
-        alt="Image"
-        width={581}
-        height={407}
-        src="/assets/img/bg-footer-1.png"
-      /> */}
-      {/* <Image
-        className="bg-right"
-        alt="Image"
-        width={783}
-        height={432}
-        src="/assets/img/bg-footer-2.png"
-      /> */}
       <div id="footer-widgets" className="container">
         <div className="footer-information">
           <div className="row">
@@ -130,13 +116,13 @@ export default function Footer1() {
                   <div className="footer-socials">
                     <div className="inner">
                       <span className="icons">
-                        <a className="active" href="#">
+                        <a className="active" href="https://www.facebook.com/share/1BTiUbW5h7/">
                           <i className="fa fa-facebook-square" />
                         </a>
                         <a href="#">
                           <i className="fa fa-twitter" />
                         </a>
-                        <a href="#">
+                        <a href="https://khanexpertcarpenter.com/#jkit_video_button_jeg_module_68_32_68c93058b6978">
                           <i className="fa fa-google" />
                         </a>
                         <a href="#">
