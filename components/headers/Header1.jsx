@@ -14,7 +14,7 @@ export default function Header1() {
             <div className="top-bar-content">
               <div className="inner">
                 <span className="location content">
-                  2072 Pinnickinick Street, WA 98370
+                  7517 wadi Al Janah, An Nasim Ash Sharqi, RQNF7517, An Nasim Ash Sharqi, Riyadh, 3563, Riyadh 14242, Saudi Arabia
                 </span>
                 <span className="envelope content">info@website.com</span>
               </div>
@@ -23,16 +23,16 @@ export default function Header1() {
             <div className="top-bar-socials">
               <div className="inner">
                 <span className="icons">
-                  <a href="#">
+                  <a href="https://www.facebook.com/share/1BTiUbW5h7/">
                     <i className="fa fa-facebook" />
                   </a>
                   <a href="#">
                     <i className="fa fa-twitter" />
                   </a>
-                  <a href="#">
+                  <a href="https://khanexpertcarpenter.com/#jkit_video_button_jeg_module_68_32_68c93058b6978">
                     <i className="fa fa-google-plus" />
                   </a>
-                  <a href="#">
+                  <a href="https://www.instagram.com/khan0558204694?igsh=bm54ajJzcnA5czRw&utm_source=ig_contact_invite">
                     <i className="fa fa-instagram" />
                   </a>
                 </span>

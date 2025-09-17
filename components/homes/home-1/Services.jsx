@@ -40,22 +40,22 @@ export default function Services() {
                 }`}
               >
                 <div className="service-inner-img">
-                  <div className="img-overlay" />
+                  <div className="img-overlay " />
                   <Image
                     alt="Image"
                     width={370}
-                    height={240}
+                    height={200}
                     src={service.imageSrc}
                   />
                 </div>
-                <div className="service-inner-text">
+                <div className="service-inner-text px-4">
                   <div className={`icon ${service.iconClass}`} />
-                  <div className="text-wrap">
+                  <div className="text-wrap  ">
                     <h3 className="heading">
                       <Link href={`/service-detail`}>{service.title}</Link>
                     </h3>
                     <div className="sep clearfix" />
-                    <p className="sub-heading">{service.description}</p>
+                    <p className="sub-heading ">{service.description}</p>
                   </div>
                   <Link href={`/service-detail`} className="service-read-more">
                     Read More <i className="fa fa-arrow-right" />

@@ -2629,7 +2629,7 @@ body.page #main-content {
   margin-left: 10px;
   letter-spacing: 0.1px;
 }
-#bottom .bottom-bar-content a,
+#bottom .bottom-bar-content a,row-work
 #bottom .bottom-bar-content span,
 #bottom .bottom-bar-menu a {
   color: rgba(255, 255, 255, 0.5);
@@ -2685,18 +2685,20 @@ body.page #main-content {
 }
 /* BACKGROUND IMG HOME */
 .service {
-  background-image: url("img/shortcode/service/bg-service.jpg");
+  background-image: url("/assets/img/service-bg.jpg");
   background-size: cover;
   padding: 0 0 303px 0;
 }
 .row-experiences {
-  background-image: url("img/shortcode/experience/bg-experience.jpg");
+  background-image: url("/assets/img/EXPERIENCED-bg.jpg");
   background-size: cover;
-  padding: 0 0 443px 0;
+  padding: 10px 0 643px 0;
+ 
 }
 .row-request {
   background-image: url("img/shortcode/request/bg-request.jpg");
   background-size: cover;
+  margin-top: 200px;
 }
 .style-2 .item.acticle .img-overlay {
   background-image: url("img/shortcode/article/article-4.png");

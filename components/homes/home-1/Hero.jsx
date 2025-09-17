@@ -6,21 +6,21 @@ import { Navigation, Pagination } from "swiper/modules";
 import Link from "next/link";
 const slides = [
   {
-    imgSrc: "/assets/img/slider/slider-1_.png",
-    imgAlt: "Image 1",
-    captionTitle: "CONSEQUAT VEL PORTA",
-    captionSubtitle: "TURN UP THE BRIGHTNESS TURN UP THE SOLAR POWER.",
+    imgSrc: "/assets/img/slider/slider.jpeg",
+    imgAlt: "Image ",
+    captionTitle: "Design. Durability. Distinction.",
+    captionSubtitle: "Blending tradition with modern design for timeless woodwork.",
     description:
-      "Fonsetetur sadipscing elitr, sed diam nonumy eirmod tempor <br/> invidunt ut labore et dolore magna aliquyam",
+      "Abu Saad Wood Works is a trusted name in high–quality wooden furniture, doors, cabinets, and interior designs. We blend traditional craftsmanship with modern design to create timeless wooden products for your home and office.",
     btnText: "Get A Quote",
   },
   {
-    imgSrc: "/assets/img/slider/slider-1_.png",
-    imgAlt: "Image 2",
-    captionTitle: "CONSEQUAT VEL PORTA",
-    captionSubtitle: "TURN UP THE BRIGHTNESS TURN UP THE SOLAR POWER.",
+    imgSrc: "/assets/img/slider/slider.2.jpg",
+    imgAlt: "Image ",
+    captionTitle: "Luxury Woodwork for Home & Office",
+    captionSubtitle: "Bringing warmth and beauty of wood into your lifestyle.",
     description:
-      "Fonsetetur sadipscing elitr, sed diam nonumy eirmod tempor <br/> invidunt ut labore et dolore magna aliquyam",
+      "At Abu Saad Wood Works, we bring warmth and beauty of wood into your lifestyle with expertly crafted furniture, doors, cabinets, and interiors.",
     btnText: "Get A Quote",
   },
   // Add more slides as needed
@@ -51,12 +51,13 @@ export default function Hero() {
         {slides.map((slide, index) => (
           <SwiperSlide className="swiper-slide" key={index}>
             <div className="container">
-              <div className="img-container">
+              <div className="img-container ">
                 <Image
-                  alt={""}
-                  src={"/assets/img/slider/slider-1.png"}
+                 alt={slide.imgAlt}
+                  src={slide.imgSrc}
                   width={620}
                   height={572}
+                  className="rounded-full img-slider rounded-2xl"
                 />
               </div>
               <div className="content">

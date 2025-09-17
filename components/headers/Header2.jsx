@@ -38,7 +38,7 @@ export default function Header2() {
                     <span>Call Us</span>
                   </div>
                   <a href="#" title="">
-                    360-779-2228
+                    +966 55 867 1274
                   </a>
                 </div>
               </div>

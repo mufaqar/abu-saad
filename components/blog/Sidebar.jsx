@@ -68,6 +68,7 @@ export default function Sidebar() {
                     src={post.imageSrc}
                     width={75}
                     height={70}
+                   
                   />
                   {post.hasIcon && (
                     <div className="elm-link">

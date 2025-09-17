@@ -21,8 +21,8 @@ export default function Testimonials() {
             <div className="themesflat-headings style-2 question wow fadeInUp clearfix">
               <h1 className="heading">WHAT OUR CLIENTS SAY</h1>
               <p className="sub-heading">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                diam nonumy eirmod tempor invidunt ut labore et dolore
+               Our clients trust us for quality craftsmanship and timeless woodwork.
+               Here’s what they have to say about their experience with Abu Saad Wood Works.
               </p>
             </div>
           </div>
@@ -33,7 +33,7 @@ export default function Testimonials() {
                 alt="Image"
                 width={570}
                 height={615}
-                src="/assets/img/shortcode/question/question-right.jpg"
+                src="/assets/img/9629w_GrandLeaves_Roomshot_1.webp"
               />
             </div>
           </div>

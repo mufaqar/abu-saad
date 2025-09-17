@@ -18,7 +18,7 @@ export default function About() {
             <Image
               className="img-about-us"
               alt="Image"
-              src="/assets/img/shortcode/about-us/about-us-left.jpg"
+              src="/assets/img/CLIENTS.jpg"
               width={500}
               height={601}
             />
@@ -32,7 +32,7 @@ export default function About() {
             <Image
               className="img-about-us-2"
               alt="Image"
-              src="/assets/img/shortcode/about-us/about-us-left-2.png"
+              src="/assets/img/Kitchen Renovation.jpg"
               width={250}
               height={400}
             />
