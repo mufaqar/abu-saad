@@ -2,56 +2,56 @@ export const articles = [
   {
     id: 1,
     className: "acticle wow fadeInUp",
-    imgSrc: "/assets/img/shortcode/article/article-1.jpg",
+    imgSrc: "/assets/img/ARTICLES-1.webp",
     date: "28 JANUARY, 2020",
-    title: "MAURIS NEQUE NISIIBUS NON ELEMENTUM",
+    title: "The Art of Traditional Woodworking",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "Discover timeless techniques and craftsmanship that make classic woodwork unique and durable.",
   },
   {
     id: 2,
     className: "acticle wow fadeInDown",
     imgSrc: "/assets/img/shortcode/article/article-2.jpg",
     date: "28 JANUARY, 2020",
-    title: "MAURIS NEQUE NISIIBUS NON ELEMENTUM",
+    title: "Modern Furniture Design with Wood",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "Learn how contemporary styles combine creativity and practicality in wooden furniture.",
   },
   {
     id: 3,
     className: "acticle wow fadeInUp",
     imgSrc: "/assets/img/shortcode/article/article-3.jpg",
     date: "28 JANUARY, 2020",
-    title: "MAURIS NEQUE NISIIBUS NON ELEMENTUM",
+    title: "Essential Tools Every Woodworker Needs",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "A guide to the must-have tools for beginners and professionals in woodworking.",
   },
   {
     id: 1,
     className: "acticle wow fadeInUp",
     imgSrc: "/assets/img/shortcode/article/article-1.jpg",
     date: "28 JANUARY, 2020",
-    title: "MAURIS NEQUE NISIIBUS NON ELEMENTUM",
+    title: "Sustainable Wood Choices for Your Projects",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "Explore eco-friendly wood types that balance beauty with environmental responsibility.",
   },
   {
     id: 2,
     className: "acticle wow fadeInDown",
     imgSrc: "/assets/img/shortcode/article/article-2.jpg",
     date: "28 JANUARY, 2020",
-    title: "MAURIS NEQUE NISIIBUS NON ELEMENTUM",
+    title: "Wood Finishing Techniques for Lasting Beauty",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "Tips and methods to polish, stain, and protect wood for a premium look.",
   },
   {
     id: 3,
     className: "acticle wow fadeInUp",
     imgSrc: "/assets/img/shortcode/article/article-3.jpg",
     date: "28 JANUARY, 2020",
-    title: "MAURIS NEQUE NISIIBUS NON ELEMENTUM",
+    title: "DIY Wood Projects to Try at Home",
     content:
-      "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "Simple and creative wooden projects that anyone can build with basic skills.",
   },
 ];
 
