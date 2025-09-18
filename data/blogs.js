@@ -2,7 +2,7 @@ export const articles = [
   {
     id: 1,
     className: "acticle wow fadeInUp",
-    imgSrc: "/assets/img/ARTICLES-1.webp",
+    imgSrc: "/assets/img/The Art of Traditional.jpg",
     date: "28 JANUARY, 2020",
     title: "The Art of Traditional Woodworking",
     content:
@@ -11,7 +11,7 @@ export const articles = [
   {
     id: 2,
     className: "acticle wow fadeInDown",
-    imgSrc: "/assets/img/shortcode/article/article-2.jpg",
+    imgSrc: "/assets/img/Modern Furniture Design.jpg",
     date: "28 JANUARY, 2020",
     title: "Modern Furniture Design with Wood",
     content:
@@ -20,7 +20,7 @@ export const articles = [
   {
     id: 3,
     className: "acticle wow fadeInUp",
-    imgSrc: "/assets/img/shortcode/article/article-3.jpg",
+    imgSrc: "/assets/img/Essential Tools.jpg",
     date: "28 JANUARY, 2020",
     title: "Essential Tools Every Woodworker Needs",
     content:
