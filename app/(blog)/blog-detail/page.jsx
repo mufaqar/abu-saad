@@ -17,7 +17,7 @@ export default function page() {
             <Header1 />
             <PageTitle pageName="Blog Details" />
             <div id="main-content" className="site-main clearfix">
-              <BlogDetails />
+              {/* <BlogDetails /> */}
             </div>
             <Footer1 />
             <Copyright />

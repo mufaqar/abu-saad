@@ -20,7 +20,7 @@ export default function page() {
           <div id="page" className="">
             <Header1 />
             <div id="main-content-home" className="site-main clearfix">
-              <PageTitle />
+              <PageTitle pageName="About Us" />
               <About />
               <Experience />
               <div

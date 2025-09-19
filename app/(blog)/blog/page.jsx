@@ -15,7 +15,7 @@ export default function page() {
         <div id="wrapper" className="animsition" style={{ opacity: 1 }}>
           <div id="page" className="">
             <Header1 />
-            <PageTitle pageName="Blogs" />
+           <PageTitle pageName="Blog" />
             <div id="main-content" className="site-main clearfix">
               <Blogs />
             </div>
