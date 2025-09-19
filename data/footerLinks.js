@@ -6,7 +6,7 @@ export const widgets = [
     links: [
       { text: "Custom Furniture", href: "/service-detail" },
       { text: "Furniture Repair", href: "/service-detail" },
-      { text: "Furniture Repair", href: "/service" },
+      { text: "Kitchen Renovation", href: "/service" },
     ],
     spacer: { desktop: 10, mobile: 0, smobile: 50 },
   },

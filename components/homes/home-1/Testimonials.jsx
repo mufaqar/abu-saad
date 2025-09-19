@@ -19,10 +19,9 @@ export default function Testimonials() {
           </div>
           <div className="col-lg-6 col-md-8">
             <div className="themesflat-headings style-2 question wow fadeInUp clearfix">
-              <h1 className="heading">WHAT OUR CLIENTS SAY</h1>
+              <h1 className="heading">Real stories from our satisfied customers</h1>
               <p className="sub-heading">
-               Our clients trust us for quality craftsmanship and timeless woodwork.
-               Here’s what they have to say about their experience with Abu Saad Wood Works.
+               Hear genuine experiences from our valued clients who trusted us and achieved outstanding results.
               </p>
             </div>
           </div>
