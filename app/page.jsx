@@ -1,3 +1,4 @@
+import Process from "@/components/common/Process";
 import Copyright from "@/components/footers/Copyright";
 import Footer1 from "@/components/footers/Footer1";
 import Header1 from "@/components/headers/Header1";
